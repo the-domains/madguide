@@ -1,0 +1,23 @@
+name: MadGuide
+favicon: null
+layout_spectrum: 0.45830924273468554
+typography_spectrum: 0.457917463965714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.17250169441103935
+  lightness: 0.5342832379974425
+  saturation: 0.21677957265637815
+  rhythmicContrast: 0.7721389112994075
+purpose: []
